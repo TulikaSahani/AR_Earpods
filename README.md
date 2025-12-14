@@ -58,10 +58,10 @@ This project is ideal for:
 
 ---
 
-## 📷 Screenshots
+## 📷 Video
 
 <p align="center">
-  <img src="Screenshots/Drive_Game.png" width="700" />
+ [ <img src="Screenshots/Drive_Game.png" width="700" />](https://github.com/user-attachments/assets/0c7c24a5-feff-41ee-9dee-a72847a607a6)
 </p>
 
 > 📌 *Replace the image path with your actual AR screenshot folder if needed.*
